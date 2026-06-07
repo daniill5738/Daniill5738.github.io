@@ -13,12 +13,14 @@ p {
     color: black !important;
 }
 h2{
-    color:white !important;
+    color:black !important;
 }
 h1{
-    color:white !important;
+    color:black !important;
 }
-
+h3{
+    color:white !important;
+    }
 a {
     color: #2e72a1;
 }
